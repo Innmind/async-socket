@@ -15,7 +15,10 @@
         "issues": "http://github.com/innmind/async-socket/issues"
     },
     "require": {
-        "php": "~8.1"
+        "php": "~8.1",
+        "innmind/mantle": "~1.0",
+        "innmind/async-stream": "~1.0",
+        "innmind/socket": "^6.0"
     },
     "autoload": {
         "psr-4": {
