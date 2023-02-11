@@ -16,8 +16,8 @@
     },
     "require": {
         "php": "~8.1",
-        "innmind/mantle": "dev-develop",
-        "innmind/async-stream": "dev-develop",
+        "innmind/mantle": "~1.0",
+        "innmind/async-stream": "~1.0",
         "innmind/socket": "^6.0"
     },
     "autoload": {
